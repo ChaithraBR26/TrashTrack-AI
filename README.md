@@ -5,12 +5,12 @@ TrashTrack AI is an intelligent waste management application that uses computer 
 
 🚀 Features
 
-🧠 AI-based waste classification using computer vision
-📷 Real-time detection through camera input
-♻️ Waste categorization (Reusable, Recyclable, Non-recyclable)
-📍 Suggests nearby recycling centers (optional if implemented)
-💻 User-friendly interface
-🌱 Promotes eco-friendly waste disposal
+* 🧠 AI-based waste classification using computer vision
+* 📷 Real-time detection through camera input
+* ♻️ Waste categorization (Reusable, Recyclable, Non-recyclable)
+* 📍 Suggests nearby recycling centers (optional if implemented)
+* 💻 User-friendly interface
+* 🌱 Promotes eco-friendly waste disposal
 
 🛠️ Tech Stack
 
